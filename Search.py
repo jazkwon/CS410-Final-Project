@@ -80,13 +80,20 @@ def write_list_to_file(string_list):
     for event in string_list:
         file.write("%s\n" % event)
         file.write("\n###\n\n")
-    
-if __name__ == '__main__':
+        
+def do_everything(search_query):
     events_list = load()
     events_scores = get_all_event_scores(events_list, "Computer Science Lecture")
-#     print(events_list)
     ranked_events = [x for _,x in sorted(zip(events_scores,events_list))]
     write_list_to_file(write_top_events_to_string_list(ranked_events, 5))
+    
+if __name__ == '__main__':
+    do_everything("Computer Science Lecture")
+#     events_list = load()
+#     events_scores = get_all_event_scores(events_list, "Computer Science Lecture")
+#     print(events_list)
+#     ranked_events = [x for _,x in sorted(zip(events_scores,events_list))]
+#     write_list_to_file(write_top_events_to_string_list(ranked_events, 5))
 #     print(events_scores)
 #     print(events_list[events_scores.index(8)])
 #     print(ranked_events)
