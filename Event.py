@@ -10,7 +10,7 @@ class Event(object):
     This class stores the data for Event
     '''
 
-    def __init__(self, title, type, sponsor, location, date, time, details):
+    def __init__(self, title, type, sponsor, location, date_time, details):
         """
         :param title: Event title
         :param type: Event type
@@ -24,6 +24,5 @@ class Event(object):
         self.type = type
         self.sponsor = sponsor
         self.location = location
-        self.date = date
-        self.time = time
+        self.date_time = date_time
         self.details = details
