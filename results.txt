@@ -1,0 +1,1240 @@
+<div class="place-on-screen" id="list-type-2">
+ <div class="ws-cal-clear">
+ </div>
+ <h2>
+  Wednesday, May 9, 2018
+ </h2>
+ <ul class="event-entries">
+  <li class="entry with-summary ">
+   <div class="entry-pod">
+    <div class="event-meta">
+     <ul>
+      <li class="date">
+       12:00 pm
+       <br/>
+      </li>
+      <li class="location">
+       1040 NCSA
+      </li>
+     </ul>
+    </div>
+    <div class="title">
+     <h3>
+      <a href="/detail/772?eventId=33305192">
+       2017-2018 NCSA Faculty Fellows Presentations
+      </a>
+     </h3>
+    </div>
+    <div class="summary">
+     <p>
+     </p>
+    </div>
+    <div class="event-meta info">
+     <ul>
+      <li class="type">
+       <a href="/search/772?searchEventType=Lecture">
+        Lecture
+       </a>
+      </li>
+     </ul>
+    </div>
+   </div>
+  </li>
+  <li class="entry with-summary ">
+   <div class="entry-pod">
+    <div class="event-meta">
+     <ul>
+      <li class="date">
+       3:00 pm
+       <br/>
+      </li>
+      <li class="location">
+       Coordinated Science Lab Room 141CSL
+      </li>
+     </ul>
+    </div>
+    <div class="title">
+     <h3>
+      <a href="/detail/772?eventId=33305166">
+       ITI Special Seminar:  Kai Thompsen, "A Talk about Being a Principal Incident Handler and Doing Computer Forensics at Volkswagen/Audi, a Large Automobile Manufacturer"
+      </a>
+     </h3>
+    </div>
+    <div class="summary">
+     <p>
+     </p>
+    </div>
+    <div class="event-meta info">
+     <ul>
+      <li class="type">
+       <a href="/search/772?searchEventType=Seminar/Symposium">
+        Seminar/Symposium
+       </a>
+      </li>
+     </ul>
+    </div>
+   </div>
+  </li>
+ </ul>
+ <h2>
+  Friday, May 11, 2018
+ </h2>
+ <ul class="event-entries">
+  <li class="entry with-summary ">
+   <div class="entry-pod">
+    <div class="event-meta">
+     <ul>
+      <li class="date">
+       1:00 pm
+       <br/>
+      </li>
+      <li class="location">
+       1040 NCSA
+      </li>
+     </ul>
+    </div>
+    <div class="title">
+     <h3>
+      <a href="/detail/772?eventId=33304028">
+       NCSA Gravity Group Spring Symposium 2018
+      </a>
+     </h3>
+    </div>
+    <div class="summary">
+     <p>
+     </p>
+    </div>
+    <div class="event-meta info">
+     <ul>
+      <li class="type">
+       <a href="/search/772?searchEventType=Seminar/Symposium">
+        Seminar/Symposium
+       </a>
+      </li>
+     </ul>
+    </div>
+   </div>
+  </li>
+ </ul>
+ <h2>
+  Monday, May 14, 2018
+ </h2>
+ <ul class="event-entries">
+  <li class="entry with-summary recurring-event">
+   <div class="entry-pod">
+    <div class="event-meta">
+     <ul>
+      <li class="date">
+       All Day
+       <br/>
+      </li>
+      <li class="location">
+       University of Nebraska, Lincoln
+      </li>
+     </ul>
+    </div>
+    <div class="title">
+     <h3>
+      <a href="/detail/772?eventId=33291058">
+       2018 Linux Clusters Institute Introductory Workshop
+      </a>
+     </h3>
+    </div>
+    <div class="summary">
+     <p>
+     </p>
+    </div>
+    <div class="event-meta info">
+     <ul>
+      <li class="type">
+       <a href="/search/772?searchEventType=Conference/Workshop">
+        Conference/Workshop
+       </a>
+      </li>
+     </ul>
+    </div>
+   </div>
+  </li>
+  <li class="entry with-summary recurring-event">
+   <div class="entry-pod">
+    <div class="event-meta">
+     <ul>
+      <li class="date">
+       All Day
+       <br/>
+      </li>
+      <li class="location">
+       Austin, TX
+      </li>
+     </ul>
+    </div>
+    <div class="title">
+     <h3>
+      <a href="/detail/772?eventId=33297805">
+       XSEDE Mini Science Gateways Bootcamp
+      </a>
+     </h3>
+    </div>
+    <div class="summary">
+     <p>
+     </p>
+    </div>
+    <div class="event-meta info">
+     <ul>
+      <li class="type">
+       <a href="/search/772?searchEventType=Conference/Workshop">
+        Conference/Workshop
+       </a>
+      </li>
+     </ul>
+    </div>
+   </div>
+  </li>
+ </ul>
+ <h2>
+  Tuesday, May 15, 2018
+ </h2>
+ <ul class="event-entries">
+  <li class="entry with-summary recurring-event">
+   <div class="entry-pod">
+    <div class="event-meta">
+     <ul>
+      <li class="date">
+       All Day
+       <br/>
+      </li>
+      <li class="location">
+       University of Nebraska, Lincoln
+      </li>
+     </ul>
+    </div>
+    <div class="title">
+     <h3>
+      <a href="/detail/772?eventId=33291058">
+       2018 Linux Clusters Institute Introductory Workshop
+      </a>
+     </h3>
+    </div>
+    <div class="summary">
+     <p>
+     </p>
+    </div>
+    <div class="event-meta info">
+     <ul>
+      <li class="type">
+       <a href="/search/772?searchEventType=Conference/Workshop">
+        Conference/Workshop
+       </a>
+      </li>
+     </ul>
+    </div>
+   </div>
+  </li>
+  <li class="entry with-summary recurring-event">
+   <div class="entry-pod">
+    <div class="event-meta">
+     <ul>
+      <li class="date">
+       All Day
+       <br/>
+      </li>
+      <li class="location">
+       Austin, TX
+      </li>
+     </ul>
+    </div>
+    <div class="title">
+     <h3>
+      <a href="/detail/772?eventId=33297805">
+       XSEDE Mini Science Gateways Bootcamp
+      </a>
+     </h3>
+    </div>
+    <div class="summary">
+     <p>
+     </p>
+    </div>
+    <div class="event-meta info">
+     <ul>
+      <li class="type">
+       <a href="/search/772?searchEventType=Conference/Workshop">
+        Conference/Workshop
+       </a>
+      </li>
+     </ul>
+    </div>
+   </div>
+  </li>
+  <li class="entry with-summary with-image recurring-event">
+   <div class="entry-pod">
+    <div class="entry-image">
+     <img alt="" src="/eventImage/5591/33302860/large.png?rn=0509T091335"/>
+    </div>
+    <div class="event-meta">
+     <ul>
+      <li class="date">
+       9:00 am - 4:30 pm
+       <br/>
+      </li>
+      <li class="location">
+       1030 NCSA
+      </li>
+     </ul>
+    </div>
+    <div class="title">
+     <h3>
+      <a href="/detail/772?eventId=33302860">
+       CSE SWC Scientific Software Development: PETSc and MOOSE Workshop
+      </a>
+     </h3>
+    </div>
+    <div class="summary">
+     <p>
+      This workshop will teach students components and methods for modern scientific software and model development. This offers hands-on lectures and tutorials by the developers of the major software packages PETSc and MOOSE. Topics will include numerical modeling, finite element modeling, multiphysics simulation, and integrating components into a target software application.
+     </p>
+    </div>
+    <div class="event-meta info">
+     <ul>
+      <li class="type">
+       <a href="/search/772?searchEventType=Seminar/Symposium">
+        Seminar/Symposium
+       </a>
+      </li>
+     </ul>
+    </div>
+   </div>
+  </li>
+ </ul>
+ <h2>
+  Wednesday, May 16, 2018
+ </h2>
+ <ul class="event-entries">
+  <li class="entry with-summary recurring-event">
+   <div class="entry-pod">
+    <div class="event-meta">
+     <ul>
+      <li class="date">
+       All Day
+       <br/>
+      </li>
+      <li class="location">
+       University of Nebraska, Lincoln
+      </li>
+     </ul>
+    </div>
+    <div class="title">
+     <h3>
+      <a href="/detail/772?eventId=33291058">
+       2018 Linux Clusters Institute Introductory Workshop
+      </a>
+     </h3>
+    </div>
+    <div class="summary">
+     <p>
+     </p>
+    </div>
+    <div class="event-meta info">
+     <ul>
+      <li class="type">
+       <a href="/search/772?searchEventType=Conference/Workshop">
+        Conference/Workshop
+       </a>
+      </li>
+     </ul>
+    </div>
+   </div>
+  </li>
+  <li class="entry with-summary recurring-event">
+   <div class="entry-pod">
+    <div class="event-meta">
+     <ul>
+      <li class="date">
+       All Day
+       <br/>
+      </li>
+      <li class="location">
+       Austin, TX
+      </li>
+     </ul>
+    </div>
+    <div class="title">
+     <h3>
+      <a href="/detail/772?eventId=33297805">
+       XSEDE Mini Science Gateways Bootcamp
+      </a>
+     </h3>
+    </div>
+    <div class="summary">
+     <p>
+     </p>
+    </div>
+    <div class="event-meta info">
+     <ul>
+      <li class="type">
+       <a href="/search/772?searchEventType=Conference/Workshop">
+        Conference/Workshop
+       </a>
+      </li>
+     </ul>
+    </div>
+   </div>
+  </li>
+  <li class="entry with-summary with-image recurring-event">
+   <div class="entry-pod">
+    <div class="entry-image">
+     <img alt="" src="/eventImage/5591/33302860/large.png?rn=0509T091335"/>
+    </div>
+    <div class="event-meta">
+     <ul>
+      <li class="date">
+       9:00 am - 4:30 pm
+       <br/>
+      </li>
+      <li class="location">
+       1030 NCSA
+      </li>
+     </ul>
+    </div>
+    <div class="title">
+     <h3>
+      <a href="/detail/772?eventId=33302860">
+       CSE SWC Scientific Software Development: PETSc and MOOSE Workshop
+      </a>
+     </h3>
+    </div>
+    <div class="summary">
+     <p>
+      This workshop will teach students components and methods for modern scientific software and model development. This offers hands-on lectures and tutorials by the developers of the major software packages PETSc and MOOSE. Topics will include numerical modeling, finite element modeling, multiphysics simulation, and integrating components into a target software application.
+     </p>
+    </div>
+    <div class="event-meta info">
+     <ul>
+      <li class="type">
+       <a href="/search/772?searchEventType=Seminar/Symposium">
+        Seminar/Symposium
+       </a>
+      </li>
+     </ul>
+    </div>
+   </div>
+  </li>
+  <li class="entry with-summary ">
+   <div class="entry-pod">
+    <div class="event-meta">
+     <ul>
+      <li class="date">
+       10:00 am
+       <br/>
+      </li>
+      <li class="location">
+       webinar
+      </li>
+     </ul>
+    </div>
+    <div class="title">
+     <h3>
+      <a href="/detail/772?eventId=33304857">
+       Blue Waters New User Training Webinar
+      </a>
+     </h3>
+    </div>
+    <div class="summary">
+     <p>
+     </p>
+    </div>
+    <div class="event-meta info">
+     <ul>
+      <li class="type">
+       <a href="/search/772?searchEventType=Conference/Workshop">
+        Conference/Workshop
+       </a>
+      </li>
+     </ul>
+    </div>
+   </div>
+  </li>
+ </ul>
+ <h2>
+  Thursday, May 17, 2018
+ </h2>
+ <ul class="event-entries">
+  <li class="entry with-summary recurring-event">
+   <div class="entry-pod">
+    <div class="event-meta">
+     <ul>
+      <li class="date">
+       All Day
+       <br/>
+      </li>
+      <li class="location">
+       University of Nebraska, Lincoln
+      </li>
+     </ul>
+    </div>
+    <div class="title">
+     <h3>
+      <a href="/detail/772?eventId=33291058">
+       2018 Linux Clusters Institute Introductory Workshop
+      </a>
+     </h3>
+    </div>
+    <div class="summary">
+     <p>
+     </p>
+    </div>
+    <div class="event-meta info">
+     <ul>
+      <li class="type">
+       <a href="/search/772?searchEventType=Conference/Workshop">
+        Conference/Workshop
+       </a>
+      </li>
+     </ul>
+    </div>
+   </div>
+  </li>
+  <li class="entry with-summary recurring-event">
+   <div class="entry-pod">
+    <div class="event-meta">
+     <ul>
+      <li class="date">
+       All Day
+       <br/>
+      </li>
+      <li class="location">
+       Austin, TX
+      </li>
+     </ul>
+    </div>
+    <div class="title">
+     <h3>
+      <a href="/detail/772?eventId=33297805">
+       XSEDE Mini Science Gateways Bootcamp
+      </a>
+     </h3>
+    </div>
+    <div class="summary">
+     <p>
+     </p>
+    </div>
+    <div class="event-meta info">
+     <ul>
+      <li class="type">
+       <a href="/search/772?searchEventType=Conference/Workshop">
+        Conference/Workshop
+       </a>
+      </li>
+     </ul>
+    </div>
+   </div>
+  </li>
+  <li class="entry with-summary with-image recurring-event">
+   <div class="entry-pod">
+    <div class="entry-image">
+     <img alt="" src="/eventImage/5591/33302860/large.png?rn=0509T091335"/>
+    </div>
+    <div class="event-meta">
+     <ul>
+      <li class="date">
+       9:00 am - 4:30 pm
+       <br/>
+      </li>
+      <li class="location">
+       1030 NCSA
+      </li>
+     </ul>
+    </div>
+    <div class="title">
+     <h3>
+      <a href="/detail/772?eventId=33302860">
+       CSE SWC Scientific Software Development: PETSc and MOOSE Workshop
+      </a>
+     </h3>
+    </div>
+    <div class="summary">
+     <p>
+      This workshop will teach students components and methods for modern scientific software and model development. This offers hands-on lectures and tutorials by the developers of the major software packages PETSc and MOOSE. Topics will include numerical modeling, finite element modeling, multiphysics simulation, and integrating components into a target software application.
+     </p>
+    </div>
+    <div class="event-meta info">
+     <ul>
+      <li class="type">
+       <a href="/search/772?searchEventType=Seminar/Symposium">
+        Seminar/Symposium
+       </a>
+      </li>
+     </ul>
+    </div>
+   </div>
+  </li>
+ </ul>
+ <h2>
+  Friday, May 18, 2018
+ </h2>
+ <ul class="event-entries">
+  <li class="entry with-summary recurring-event">
+   <div class="entry-pod">
+    <div class="event-meta">
+     <ul>
+      <li class="date">
+       All Day
+       <br/>
+      </li>
+      <li class="location">
+       University of Nebraska, Lincoln
+      </li>
+     </ul>
+    </div>
+    <div class="title">
+     <h3>
+      <a href="/detail/772?eventId=33291058">
+       2018 Linux Clusters Institute Introductory Workshop
+      </a>
+     </h3>
+    </div>
+    <div class="summary">
+     <p>
+     </p>
+    </div>
+    <div class="event-meta info">
+     <ul>
+      <li class="type">
+       <a href="/search/772?searchEventType=Conference/Workshop">
+        Conference/Workshop
+       </a>
+      </li>
+     </ul>
+    </div>
+   </div>
+  </li>
+  <li class="entry with-summary recurring-event">
+   <div class="entry-pod">
+    <div class="event-meta">
+     <ul>
+      <li class="date">
+       All Day
+       <br/>
+      </li>
+      <li class="location">
+       Austin, TX
+      </li>
+     </ul>
+    </div>
+    <div class="title">
+     <h3>
+      <a href="/detail/772?eventId=33297805">
+       XSEDE Mini Science Gateways Bootcamp
+      </a>
+     </h3>
+    </div>
+    <div class="summary">
+     <p>
+     </p>
+    </div>
+    <div class="event-meta info">
+     <ul>
+      <li class="type">
+       <a href="/search/772?searchEventType=Conference/Workshop">
+        Conference/Workshop
+       </a>
+      </li>
+     </ul>
+    </div>
+   </div>
+  </li>
+  <li class="entry with-summary with-image recurring-event">
+   <div class="entry-pod">
+    <div class="entry-image">
+     <img alt="" src="/eventImage/5591/33302860/large.png?rn=0509T091335"/>
+    </div>
+    <div class="event-meta">
+     <ul>
+      <li class="date">
+       9:00 am - 4:30 pm
+       <br/>
+      </li>
+      <li class="location">
+       1030 NCSA
+      </li>
+     </ul>
+    </div>
+    <div class="title">
+     <h3>
+      <a href="/detail/772?eventId=33302860">
+       CSE SWC Scientific Software Development: PETSc and MOOSE Workshop
+      </a>
+     </h3>
+    </div>
+    <div class="summary">
+     <p>
+      This workshop will teach students components and methods for modern scientific software and model development. This offers hands-on lectures and tutorials by the developers of the major software packages PETSc and MOOSE. Topics will include numerical modeling, finite element modeling, multiphysics simulation, and integrating components into a target software application.
+     </p>
+    </div>
+    <div class="event-meta info">
+     <ul>
+      <li class="type">
+       <a href="/search/772?searchEventType=Seminar/Symposium">
+        Seminar/Symposium
+       </a>
+      </li>
+     </ul>
+    </div>
+   </div>
+  </li>
+ </ul>
+ <h2>
+  Monday, June 4, 2018
+ </h2>
+ <ul class="event-entries">
+  <li class="entry with-summary recurring-event">
+   <div class="entry-pod">
+    <div class="event-meta">
+     <ul>
+      <li class="date">
+       All Day
+       <br/>
+      </li>
+      <li class="location">
+       Sunriver, Oregon
+      </li>
+     </ul>
+    </div>
+    <div class="title">
+     <h3>
+      <a href="/detail/772?eventId=33301196">
+       2018 Blue Waters Symposium
+      </a>
+     </h3>
+    </div>
+    <div class="summary">
+     <p>
+     </p>
+    </div>
+    <div class="event-meta info">
+     <ul>
+      <li class="type">
+       <a href="/search/772?searchEventType=Conference/Workshop">
+        Conference/Workshop
+       </a>
+      </li>
+     </ul>
+    </div>
+   </div>
+  </li>
+ </ul>
+ <h2>
+  Tuesday, June 5, 2018
+ </h2>
+ <ul class="event-entries">
+  <li class="entry with-summary recurring-event">
+   <div class="entry-pod">
+    <div class="event-meta">
+     <ul>
+      <li class="date">
+       All Day
+       <br/>
+      </li>
+      <li class="location">
+       Sunriver, Oregon
+      </li>
+     </ul>
+    </div>
+    <div class="title">
+     <h3>
+      <a href="/detail/772?eventId=33301196">
+       2018 Blue Waters Symposium
+      </a>
+     </h3>
+    </div>
+    <div class="summary">
+     <p>
+     </p>
+    </div>
+    <div class="event-meta info">
+     <ul>
+      <li class="type">
+       <a href="/search/772?searchEventType=Conference/Workshop">
+        Conference/Workshop
+       </a>
+      </li>
+     </ul>
+    </div>
+   </div>
+  </li>
+ </ul>
+ <h2>
+  Wednesday, June 6, 2018
+ </h2>
+ <ul class="event-entries">
+  <li class="entry with-summary recurring-event">
+   <div class="entry-pod">
+    <div class="event-meta">
+     <ul>
+      <li class="date">
+       All Day
+       <br/>
+      </li>
+      <li class="location">
+       Sunriver, Oregon
+      </li>
+     </ul>
+    </div>
+    <div class="title">
+     <h3>
+      <a href="/detail/772?eventId=33301196">
+       2018 Blue Waters Symposium
+      </a>
+     </h3>
+    </div>
+    <div class="summary">
+     <p>
+     </p>
+    </div>
+    <div class="event-meta info">
+     <ul>
+      <li class="type">
+       <a href="/search/772?searchEventType=Conference/Workshop">
+        Conference/Workshop
+       </a>
+      </li>
+     </ul>
+    </div>
+   </div>
+  </li>
+ </ul>
+ <h2>
+  Thursday, June 7, 2018
+ </h2>
+ <ul class="event-entries">
+  <li class="entry with-summary recurring-event">
+   <div class="entry-pod">
+    <div class="event-meta">
+     <ul>
+      <li class="date">
+       All Day
+       <br/>
+      </li>
+      <li class="location">
+       Sunriver, Oregon
+      </li>
+     </ul>
+    </div>
+    <div class="title">
+     <h3>
+      <a href="/detail/772?eventId=33301196">
+       2018 Blue Waters Symposium
+      </a>
+     </h3>
+    </div>
+    <div class="summary">
+     <p>
+     </p>
+    </div>
+    <div class="event-meta info">
+     <ul>
+      <li class="type">
+       <a href="/search/772?searchEventType=Conference/Workshop">
+        Conference/Workshop
+       </a>
+      </li>
+     </ul>
+    </div>
+   </div>
+  </li>
+ </ul>
+ <h2>
+  Thursday, June 14, 2018
+ </h2>
+ <ul class="event-entries">
+  <li class="entry with-summary recurring-event">
+   <div class="entry-pod">
+    <div class="event-meta">
+     <ul>
+      <li class="date">
+       All Day
+       <br/>
+      </li>
+      <li class="location">
+       I Hotel and Conference Center
+      </li>
+     </ul>
+    </div>
+    <div class="title">
+     <h3>
+      <a href="/detail/772?eventId=33304689">
+       IT Professionals Forum Conference
+      </a>
+     </h3>
+    </div>
+    <div class="summary">
+     <p>
+     </p>
+    </div>
+    <div class="event-meta info">
+     <ul>
+      <li class="type">
+       <a href="/search/772?searchEventType=Conference/Workshop">
+        Conference/Workshop
+       </a>
+      </li>
+     </ul>
+    </div>
+   </div>
+  </li>
+  <li class="entry with-summary ">
+   <div class="entry-pod">
+    <div class="event-meta">
+     <ul>
+      <li class="date">
+       9:00 am
+       <br/>
+      </li>
+      <li class="location">
+       1040 NCSA
+      </li>
+     </ul>
+    </div>
+    <div class="title">
+     <h3>
+      <a href="/detail/772?eventId=33295907">
+       Broadening Participation in Visualization Workshop 2018 (BPViz'18)
+      </a>
+     </h3>
+    </div>
+    <div class="summary">
+     <p>
+     </p>
+    </div>
+    <div class="event-meta info">
+     <ul>
+      <li class="type">
+       <a href="/search/772?searchEventType=Conference/Workshop">
+        Conference/Workshop
+       </a>
+      </li>
+     </ul>
+    </div>
+   </div>
+  </li>
+ </ul>
+ <h2>
+  Friday, June 15, 2018
+ </h2>
+ <ul class="event-entries">
+  <li class="entry with-summary recurring-event">
+   <div class="entry-pod">
+    <div class="event-meta">
+     <ul>
+      <li class="date">
+       All Day
+       <br/>
+      </li>
+      <li class="location">
+       I Hotel and Conference Center
+      </li>
+     </ul>
+    </div>
+    <div class="title">
+     <h3>
+      <a href="/detail/772?eventId=33304689">
+       IT Professionals Forum Conference
+      </a>
+     </h3>
+    </div>
+    <div class="summary">
+     <p>
+     </p>
+    </div>
+    <div class="event-meta info">
+     <ul>
+      <li class="type">
+       <a href="/search/772?searchEventType=Conference/Workshop">
+        Conference/Workshop
+       </a>
+      </li>
+     </ul>
+    </div>
+   </div>
+  </li>
+ </ul>
+ <h2>
+  Tuesday, June 26, 2018
+ </h2>
+ <ul class="event-entries">
+  <li class="entry with-summary ">
+   <div class="entry-pod">
+    <div class="event-meta">
+     <ul>
+      <li class="date">
+       8:30 am
+       <br/>
+      </li>
+      <li class="location">
+       via Webcast GoToMeeting
+      </li>
+     </ul>
+    </div>
+    <div class="title">
+     <h3>
+      <a href="/detail/772?eventId=33304842">
+       ITI/CIRI Webinar: Brian Barnes, Title Coming Soon!
+      </a>
+     </h3>
+    </div>
+    <div class="summary">
+     <p>
+     </p>
+    </div>
+    <div class="event-meta info">
+     <ul>
+      <li class="type">
+       <a href="/search/772?searchEventType=Seminar/Symposium">
+        Seminar/Symposium
+       </a>
+      </li>
+     </ul>
+    </div>
+   </div>
+  </li>
+ </ul>
+ <h2>
+  Monday, August 13, 2018
+ </h2>
+ <ul class="event-entries">
+  <li class="entry with-summary recurring-event">
+   <div class="entry-pod">
+    <div class="event-meta">
+     <ul>
+      <li class="date">
+       All Day
+       <br/>
+      </li>
+      <li class="location">
+       Yale University
+      </li>
+     </ul>
+    </div>
+    <div class="title">
+     <h3>
+      <a href="/detail/772?eventId=33291059">
+       2018 Linux Clusters Institute Intermediate Workshop
+      </a>
+     </h3>
+    </div>
+    <div class="summary">
+     <p>
+     </p>
+    </div>
+    <div class="event-meta info">
+     <ul>
+      <li class="type">
+       <a href="/search/772?searchEventType=Conference/Workshop">
+        Conference/Workshop
+       </a>
+      </li>
+     </ul>
+    </div>
+   </div>
+  </li>
+ </ul>
+ <h2>
+  Tuesday, August 14, 2018
+ </h2>
+ <ul class="event-entries">
+  <li class="entry with-summary recurring-event">
+   <div class="entry-pod">
+    <div class="event-meta">
+     <ul>
+      <li class="date">
+       All Day
+       <br/>
+      </li>
+      <li class="location">
+       Yale University
+      </li>
+     </ul>
+    </div>
+    <div class="title">
+     <h3>
+      <a href="/detail/772?eventId=33291059">
+       2018 Linux Clusters Institute Intermediate Workshop
+      </a>
+     </h3>
+    </div>
+    <div class="summary">
+     <p>
+     </p>
+    </div>
+    <div class="event-meta info">
+     <ul>
+      <li class="type">
+       <a href="/search/772?searchEventType=Conference/Workshop">
+        Conference/Workshop
+       </a>
+      </li>
+     </ul>
+    </div>
+   </div>
+  </li>
+ </ul>
+ <h2>
+  Wednesday, August 15, 2018
+ </h2>
+ <ul class="event-entries">
+  <li class="entry with-summary recurring-event">
+   <div class="entry-pod">
+    <div class="event-meta">
+     <ul>
+      <li class="date">
+       All Day
+       <br/>
+      </li>
+      <li class="location">
+       Yale University
+      </li>
+     </ul>
+    </div>
+    <div class="title">
+     <h3>
+      <a href="/detail/772?eventId=33291059">
+       2018 Linux Clusters Institute Intermediate Workshop
+      </a>
+     </h3>
+    </div>
+    <div class="summary">
+     <p>
+     </p>
+    </div>
+    <div class="event-meta info">
+     <ul>
+      <li class="type">
+       <a href="/search/772?searchEventType=Conference/Workshop">
+        Conference/Workshop
+       </a>
+      </li>
+     </ul>
+    </div>
+   </div>
+  </li>
+ </ul>
+ <h2>
+  Thursday, August 16, 2018
+ </h2>
+ <ul class="event-entries">
+  <li class="entry with-summary recurring-event">
+   <div class="entry-pod">
+    <div class="event-meta">
+     <ul>
+      <li class="date">
+       All Day
+       <br/>
+      </li>
+      <li class="location">
+       Yale University
+      </li>
+     </ul>
+    </div>
+    <div class="title">
+     <h3>
+      <a href="/detail/772?eventId=33291059">
+       2018 Linux Clusters Institute Intermediate Workshop
+      </a>
+     </h3>
+    </div>
+    <div class="summary">
+     <p>
+     </p>
+    </div>
+    <div class="event-meta info">
+     <ul>
+      <li class="type">
+       <a href="/search/772?searchEventType=Conference/Workshop">
+        Conference/Workshop
+       </a>
+      </li>
+     </ul>
+    </div>
+   </div>
+  </li>
+ </ul>
+ <h2>
+  Friday, August 17, 2018
+ </h2>
+ <ul class="event-entries">
+  <li class="entry with-summary recurring-event">
+   <div class="entry-pod">
+    <div class="event-meta">
+     <ul>
+      <li class="date">
+       All Day
+       <br/>
+      </li>
+      <li class="location">
+       Yale University
+      </li>
+     </ul>
+    </div>
+    <div class="title">
+     <h3>
+      <a href="/detail/772?eventId=33291059">
+       2018 Linux Clusters Institute Intermediate Workshop
+      </a>
+     </h3>
+    </div>
+    <div class="summary">
+     <p>
+     </p>
+    </div>
+    <div class="event-meta info">
+     <ul>
+      <li class="type">
+       <a href="/search/772?searchEventType=Conference/Workshop">
+        Conference/Workshop
+       </a>
+      </li>
+     </ul>
+    </div>
+   </div>
+  </li>
+ </ul>
+ <h2>
+  Thursday, August 30, 2018
+ </h2>
+ <ul class="event-entries">
+  <li class="entry with-summary ">
+   <div class="entry-pod">
+    <div class="event-meta">
+     <ul>
+      <li class="date">
+       1:00 pm
+       <br/>
+      </li>
+      <li class="location">
+       via Webcast GoToMeeting
+      </li>
+     </ul>
+    </div>
+    <div class="title">
+     <h3>
+      <a href="/detail/772?eventId=33304821">
+       ITI/CIRI Webinar: Quanyuan Zhu, Title Coming Soon!
+      </a>
+     </h3>
+    </div>
+    <div class="summary">
+     <p>
+     </p>
+    </div>
+    <div class="event-meta info">
+     <ul>
+      <li class="type">
+       <a href="/search/772?searchEventType=Seminar/Symposium">
+        Seminar/Symposium
+       </a>
+      </li>
+     </ul>
+    </div>
+   </div>
+  </li>
+ </ul>
+</div>
