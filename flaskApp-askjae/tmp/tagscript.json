@@ -1,0 +1,40 @@
+{
+
+    "events": [
+        {
+            "date": "5/9/2018\r\n", 
+            "details": "Exam Topic:\u00a0Spatial-Temporal Representation Learning via Interaction \n \n", 
+            "location": "3032 ECE Building", 
+            "sponsor": "ECE ILLINOIS", 
+            "time": "2 p.m.", 
+            "title": "Prelim Examination: Yuchen He", 
+            "type": "Seminar/Symposium"
+        }, 
+        {
+            "date": "5/9/2018\r\n", 
+            "details": "ABSTRACT: \n In this seminar, Kai will speak about what it is like being responsible for corporate incident response and computer forensics at Volkswagen/Audi. This includes security response to the various ICS systems that Volkswagen/Audi uses in its factories all over the world. Kai will also try to address challenges faced in securing a computerized vehicle and address car security. \n BIOGRAPHY: \n Kai Thompsen  is the Incident Response Team Lead at AUDI AG.\u00a0 He is currently working on creating a modern CSIRT for Audi.\u00a0 In the past, he established an IT Service Continuity Organization at Audi and developed and executed crisis management training exercises for top management. \n Prior to Audi, he worked at SMS group, an engineering company for steel manufacturing plants.\u00a0 He was responsible for network security architecture, NSM, and forensics. \n Kai holds an M.A. in Computer Science and English and American Literature from the University of Siegen.\u00a0 \n He is also a SANS Instructor for Industrial Control Systems Active Defense and Incident Response (ICS515). \n \n", 
+            "location": "Coordinated Science Lab Room 141CSL", 
+            "sponsor": "Edmond Rogers", 
+            "time": "3 p.m.", 
+            "title": "ITI Special Seminar:  Kai Thompsen, \"A Talk about Being a Principal Incident Handler and Doing Computer Forensics at Volkswagen/Audi, a Large Automobile Manufacturer\"", 
+            "type": "Seminar/Symposium"
+        }
+    ]
+}
+
+//var output = document.getElementById('tagoutput');
+//output.innerHTML = 'new content';
+
+// function getTabs(event, type){
+//     //var tabcontent, tablinks;
+//     var curr = document.getElementById(type);
+
+//     if (curr.style.display === "none"){
+//         curr.innerHTML = 'new content';
+//         curr.style.display = "block";
+//     }
+//     else{
+//         curr.style.display = "none";
+//     }
+
+// }
