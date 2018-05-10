@@ -68,11 +68,25 @@ def get_all_event_scores(events_list, search_query):
         events_score_list.append(score_event(event, new_query))
     return events_score_list
 
+def write_top_events_to_string_list(ranked_events, num_events):
+    ranked_events.reverse()
+    event_strings = []
+    for event in ranked_events[0:num_events]:
+        event_strings.append(event.event_to_string())
+    return event_strings
+
+def write_list_to_file(string_list):
+    file = open('top_events.txt', 'w')
+    for event in string_list:
+        file.write("%s\n" % event)
+        file.write("\n###\n\n")
+    
 if __name__ == '__main__':
     events_list = load()
     events_scores = get_all_event_scores(events_list, "Computer Science Lecture")
 #     print(events_list)
     ranked_events = [x for _,x in sorted(zip(events_scores,events_list))]
+    write_list_to_file(write_top_events_to_string_list(ranked_events, 5))
 #     print(events_scores)
 #     print(events_list[events_scores.index(8)])
 #     print(ranked_events)
