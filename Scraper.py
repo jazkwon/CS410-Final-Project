@@ -17,43 +17,6 @@ from __builtin__ import IndexError
 event_object_list = []
 ece_event_link_list = []
 
-
-def scrape_pitcher(url, team):
-    """
-    :param url: url of pitchers page
-    :param team: string containing the name of the pitchers team
-    Scrapes a pitchers page for info and stats
-    """
-    mlb = url
-    header = {'User-Agent': 'Mozilla/5.0'}
-    req = urllib2.Request(mlb, headers=header)
-    page = urllib2.urlopen(req)
-    soup = BeautifulSoup(page)
-    statBox = soup.find("div", {"class": "player-stats-summary-large"})
-    wins = 0
-    losses = 0
-    era = 0
-    games = 0
-    gs = 0
-    ip = 0
-    for tr in statBox.findAll('tr'):
-        year = tr.findAll('td')
-        if (len(year) == 0):
-            pass
-        elif (year[0].string == "2017 Stats"):
-            print(year[0].string)
-            wins = int(year[1].string)
-            losses = int(year[2].string)
-            if (year[3].string != None):
-                era = float(year[3].string)
-            games = int(year[4].string)
-            gs = int(year[5].string)
-            ip = float(year[7].string)
-    info = soup.find("div", {"class": "player-vitals"})
-    name = info.find('span').string
-    pitcher_list.append(Pitcher(name, team, wins, losses, era, games, gs, ip))
-
-
 def scrape_ece_event_links(url):
     """
     :param url: url of calendar page
