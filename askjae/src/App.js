@@ -1,18 +1,32 @@
 import React, { Component } from 'react';
+import { Button, Grid, Image, Search, Dropdown, Menu, Checkbox, Form } from 'semantic-ui-react'
 import logo from './logo.svg';
 import './App.css';
+import _ from 'lodash'
+
 
 class App extends Component {
+  constructor() {
+      super();
+      this.state = {
+          searchText: '',
+          searchResults: []
+      }
+  }
+
   render() {
     return (
       <div className="App">
         <header className="App-header">
-          <img src={logo} className="App-logo" alt="logo" />
-          <h1 className="App-title">Welcome to React</h1>
+          <img src={require('./jaelogo.png')} className="App-logo" alt="logo" />
+            <Form size='big'>
+              <Form.Field className="searchbar" width='fourteen' >
+                <input className="input"
+                  placeholder='...Type Here' />
+              </Form.Field>
+              <Button type='submit'>Submit</Button>
+            </Form>
         </header>
-        <p className="App-intro">
-          To get started, edit <code>src/App.js</code> and save to reload.
-        </p>
       </div>
     );
   }
