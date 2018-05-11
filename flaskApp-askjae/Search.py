@@ -11,15 +11,16 @@ from nltk.corpus import stopwords
 import nltk
 from posix import remove
 nltk.download('stopwords')
+import ast
 
 def load():
     """
     :return:  List of event objects
     Loads Events from json file and puts the data into an event object
     """
-    
+
     list_of_events = []
-    
+
     with open('data.json') as infile:
         stored_data = json.load(infile)
         for thing in stored_data:
@@ -32,7 +33,7 @@ def load():
                 date_time = event["date"] + " " + event["time"]
                 details = event["details"]
                 list_of_events.append(Event(title, type, sponsor, location, date_time, details))
-    
+
     with open('data2.json') as infile:
         stored_data = json.load(infile)
         for event in stored_data:
@@ -42,7 +43,9 @@ def load():
             location = event["Location"]
             date_time = event["Date "]
             details = event["Description"]
+
             list_of_events.append(Event(title, type, sponsor, location, date_time, details))
+
     return list_of_events
 
 def remove_stop_words(search_query):
@@ -110,7 +113,7 @@ def write_list_to_string(string_list):
     for event in string_list:
         event_string += event + "\n###\n\n"
     return event_string
-        
+
 def write_top_results_to_string(search_query):
     """
     :param search_query:  The raw search query
@@ -124,12 +127,13 @@ def write_top_results_to_string(search_query):
     for i in range(0, len(events_list)):
         tuple_list.append((events_scores[i], events_list[i]))
 #     ranked_events = [x for _,x in sorted(zip(events_scores,events_list))]
+    #print(tuple_list)
     tuple_list.sort()
     ranked_events = []
     for event in tuple_list:
         ranked_events.append(event[1])
     return write_list_to_string(write_top_events_to_string_list(ranked_events, 5))
-    
+
 def write_events_by_tag_to_string(tag):
     """
     :param tag:  A tag in string form
@@ -144,11 +148,11 @@ def write_events_by_tag_to_string(tag):
         if tag.lower() in event_string.lower():
             tagged_event_strings.append(event_string)
     return write_list_to_string(tagged_event_strings)
-    
+
 if __name__ == '__main__':
     print(write_top_results_to_string("Lecture"))
-#     print(write_events_by_tag_to_string("Lecture")) 
-    
+#     print(write_events_by_tag_to_string("Lecture"))
+
 #     events_list = load()
 #     events_scores = get_all_event_scores(events_list, "Computer Science Lecture")
 #     print(events_list)
