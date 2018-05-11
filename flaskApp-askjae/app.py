@@ -20,7 +20,7 @@ def generate():
 def search_post():
     text = request.form['text']
     processed_text = write_top_results_to_string(text)
-    return processed_text
+    return processed_text.replace("\n", "<br/>")
 
 if __name__ == '__main__':
     app.run(debug=True)
