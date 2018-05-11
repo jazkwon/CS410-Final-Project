@@ -1,0 +1,179 @@
+Title:  Electromagnetic Wave Scattering of Periodic Structures and Random Media with Applications in Engineered Electromagnetic Materials and Environmental Remote Sensing
+Type:  Lecture
+Sponsor:  ECE ILLINOIS
+Location:  1311 Newmark
+Date and Time:  5/10/2018
+ 12 p.m.
+Details:  Abstract: Electromagnetic wave scattering of periodic structures and random media are fascinating fields with wide applications. Electromagnetic wave scattering of periodic structures is fundamental for analysis and design of engineered electromagnetic materials such as photonic crystals, metamaterials and metasurfaces, while electromagnetic wave scattering of random media constitutes the physical basis for environmental and geophysical remote sensing. In both cases, Maxwells equations are the theoretical foundations for electromagnetic wave scattering problems. In this seminar, I will present a novel and effective broadband Greens function approach that we recently developed to deal with wave interactions with periodic structures. The approach is especially suitable for field analysis around interfaces of periodic structures in engineered electromagnetic materials design. I will then present three unique yet inherently unified methods for solving Maxwells equations on dense volumetric random media: a dense media radiative transfer approach, a full wave simulation approach, and a Feynman diagram approach. Implications and impacts of these theories on various engineering problems and scientific questions will also be discussed. 
+  
+ Bio: Shurun Tan received the B.Eng. and M.Eng. degrees in Electrical Engineering from the Southeast University, Nanjing, China, in 2009 and 2012, respectively, and the Ph.D. degree in Electrical Engineering from the University of Michigan, Ann Arbor, MI, USA, in Dec. 2016. 
+ From Dec. 2010 to Nov. 2011, he was a visiting researcher with the Department of Electrical and Computer Engineering, the University of Houston, Houston, TX, USA. From Sep. 2012 to Dec. 2014, he was a PhD candidate with the Department of Electrical Engineering, the University of Washington, Seattle, WA, USA. He is currently a postdoc at the Radiation Laboratory and the Department of Electrical Engineering and Computer Science at the University of Michigan, since Jan. 2017. 
+ 
+
+
+
+###
+
+Title:  Alexei (Alyosha) Efros: Professor, UC Berkeley
+Type:  Lecture
+Sponsor:  Department of Computer Science
+Location:  2405 Siebel Center
+Date and Time:  Oct 8, 2018 4:00 - 5:00 pm
+Details:  Part of the Illinois Computer Science Distinguished Lecture Series
+
+
+###
+
+Title:  Daniel Sanchez, "Making Parallelism Pervasive with the Swarm Architecture"
+Type:  Lecture
+Sponsor:  The Department of Computer Science, University of Illinois
+Location:  2405 Siebel Center
+Date and Time:  May 14, 2018 4:00 pm
+Details:  Abstract:  With Moore's Law coming to an end, architects must find ways to sustain performance growth without technology scaling. The most promising path is to build highly parallel systems that harness thousands of simple and efficient cores. But this approach will require new techniques to make massive parallelism practical, as current multicores fall short of this goal: they squander most of the parallelism available in applications and are too hard to program. 
+ I will present Swarm, a new architecture that successfully parallelizes algorithms that are often considered sequential and is much easier to program than conventional multicores. Swarm programs consist of tiny tasks, as small as tens of instructions each. Parallelism is implicit: all tasks follow a programmer-specified total or partial order, eliminating the correctness pitfalls of explicit synchronization (e.g., deadlock, data races, etc.). To scale, Swarm executes tasks speculatively and out of order, and efficiently speculates thousands of tasks ahead of the earliest active task to uncover enough parallelism. 
+ Swarm builds on decades of work on speculative architectures and contributes new techniques to scale to large core counts, including a new execution model, speculation-aware hardware task management, selective aborts, and scalable ordered task commits. Swarm also incorporates new techniques to exploit locality and to harness nested parallelism, making parallel algorithms easy to compose and uncovering abundant parallelism in large applications. 
+ Swarm accelerates challenging irregular applications from a broad set of domains, including graph analytics, machine learning, simulation, and databases. At 256 cores, Swarm is 53-561x faster than a single-core system, and outperforms state-of-the-art software-only parallel algorithms by one to two orders of magnitude. Besides achieving near-linear scalability, the resulting Swarm programs are almost as simple as their sequential counterparts, as they do not use explicit synchronization. 
+  
+ Bio:  Daniel Sanchez is an Associate Professor of Electrical Engineering and Computer Science at MIT. His research interests include parallel computer systems, scalable and efficient memory hierarchies, architectural support for parallelization, and architectures with quality-of-service guarantees. He earned a Ph.D. in Electrical Engineering from Stanford University in 2012 and received the NSF CAREER award in 2015.
+
+
+###
+
+Title:  Omer Reingold: Professor, Stanford University
+Type:  Lecture
+Sponsor:  Department of Computer Science
+Location:  2405 Siebel Center
+Date and Time:  Oct 22, 2018 4:00 - 5:00 pm
+Details:  Part of the Illinois Computer Science Distinguished Lecture Series
+
+
+###
+
+Title:  Sean Follmer: Professor of Mechanical Engineering and Computer Science, Stanford
+Type:  Lecture
+Sponsor:  Department of Computer Science
+Location:  2405 Siebel Center
+Date and Time:  Dec 3, 2018 4:00 - 5:00 pm
+Details:  Part of the Illinois Computer Science Distinguished Lecture Series
+
+
+###
+
+Title:  Venkatesan Guruswami: Professor of Computer Science, CMU
+Type:  Lecture
+Sponsor:  Department of Computer Science
+Location:  2405 Siebel Center
+Date and Time:  Nov 5, 2018 4:00 - 5:00 pm
+Details:  Part of the Illinois Computer Science Distinguished Lecture Series
+
+
+###
+
+Title:  Lexing Ying, Professor of Mathematics, Stanford University
+Type:  Lecture
+Sponsor:  Department of Computer Science
+Location:  2405 Siebel Center
+Date and Time:  Sep 24, 2018 4:00 - 5:00 pm
+Details:  Part of the Illinois Computer Science Distinguished Lecture Series
+
+
+###
+
+Title:  Tamara Kolda: Distinguished Member of Technical Staff, Sandia National Laboratories
+Type:  Lecture
+Sponsor:  Department of Computer Science
+Location:  2405 Siebel Center
+Date and Time:  Oct 1, 2018 4:00 - 5:00 pm
+Details:  Part of the Illinois Computer Science Distinguished Lecture Series.
+
+
+###
+
+Title:  Luiz Andre Barroso, VP of Engineering, Google
+Type:  Lecture
+Sponsor:  Department of Computer Science
+Location:  2405 Siebel Center
+Date and Time:  Sep 10, 2018 4:00 - 5:00 pm
+Details:  Part of the Illinois Computer Science Distinguished Lecture Series
+
+
+###
+
+Title:  2017-2018 NCSA Faculty Fellows Presentations
+Type:  Lecture
+Sponsor:  NCSA
+Location:  1040 NCSA
+Date and Time:  May 9, 2018  12:00 pm  
+Details:  Please join us for presentations from the 2017-2018 NCSA Faculty Fellows and learn more about the work they have been conducting over the past year. Lunch will be provided.
+
+
+###
+
+Title:  CSE SWC Scientific Software Development: PETSc and MOOSE Workshop
+Type:  Seminar/Symposium
+Sponsor:  CSE
+Location:  1030 NCSA
+Date and Time:  May 15, 2018 - May 18, 2018  9:00 am - 4:30 pm  
+Details:  This workshop will teach students components and methods for modern scientific software and model development. This event offers hands-on lectures and tutorials by the developers of the major software packages PETSc and MOOSE. Topics will include numerical modeling, finite element modeling, multiphysics simulation, and integrating components into a target software application.
+PETSc
+PETSc, the Portable Extensible Toolkit for Scientific Computing, powers the numerics underlying many cutting-edge scientific computing and high-performance computing applications.
+PETSc Home Page
+MOOSE
+MOOSE, the Multiphysics Object-Oriented Simulation Environment, is a finite-element toolkit developed to simulate nuclear reactors and other computationally intensive models.
+MOOSE Home Page
+Prerequisites include: CS 420 Parallel programming or equivalent exposure to HPC concepts (although these will be reviewed as well); CS 450 Numerical analysis or TAM 470 Computational mechanics or equivalent exposure to numerical concepts. Knowledge of C++ is a necessity, but you can run through a tutorial beforehand to get up to speed on the language.
+
+
+###
+
+Title:  CSE SWC Scientific Software Development: PETSc and MOOSE Workshop
+Type:  Seminar/Symposium
+Sponsor:  CSE
+Location:  1030 NCSA
+Date and Time:  May 15, 2018 - May 18, 2018  9:00 am - 4:30 pm  
+Details:  This workshop will teach students components and methods for modern scientific software and model development. This event offers hands-on lectures and tutorials by the developers of the major software packages PETSc and MOOSE. Topics will include numerical modeling, finite element modeling, multiphysics simulation, and integrating components into a target software application.
+PETSc
+PETSc, the Portable Extensible Toolkit for Scientific Computing, powers the numerics underlying many cutting-edge scientific computing and high-performance computing applications.
+PETSc Home Page
+MOOSE
+MOOSE, the Multiphysics Object-Oriented Simulation Environment, is a finite-element toolkit developed to simulate nuclear reactors and other computationally intensive models.
+MOOSE Home Page
+Prerequisites include: CS 420 Parallel programming or equivalent exposure to HPC concepts (although these will be reviewed as well); CS 450 Numerical analysis or TAM 470 Computational mechanics or equivalent exposure to numerical concepts. Knowledge of C++ is a necessity, but you can run through a tutorial beforehand to get up to speed on the language.
+
+
+###
+
+Title:  CSE SWC Scientific Software Development: PETSc and MOOSE Workshop
+Type:  Seminar/Symposium
+Sponsor:  CSE
+Location:  1030 NCSA
+Date and Time:  May 15, 2018 - May 18, 2018  9:00 am - 4:30 pm  
+Details:  This workshop will teach students components and methods for modern scientific software and model development. This event offers hands-on lectures and tutorials by the developers of the major software packages PETSc and MOOSE. Topics will include numerical modeling, finite element modeling, multiphysics simulation, and integrating components into a target software application.
+PETSc
+PETSc, the Portable Extensible Toolkit for Scientific Computing, powers the numerics underlying many cutting-edge scientific computing and high-performance computing applications.
+PETSc Home Page
+MOOSE
+MOOSE, the Multiphysics Object-Oriented Simulation Environment, is a finite-element toolkit developed to simulate nuclear reactors and other computationally intensive models.
+MOOSE Home Page
+Prerequisites include: CS 420 Parallel programming or equivalent exposure to HPC concepts (although these will be reviewed as well); CS 450 Numerical analysis or TAM 470 Computational mechanics or equivalent exposure to numerical concepts. Knowledge of C++ is a necessity, but you can run through a tutorial beforehand to get up to speed on the language.
+
+
+###
+
+Title:  CSE SWC Scientific Software Development: PETSc and MOOSE Workshop
+Type:  Seminar/Symposium
+Sponsor:  CSE
+Location:  1030 NCSA
+Date and Time:  May 15, 2018 - May 18, 2018  9:00 am - 4:30 pm  
+Details:  This workshop will teach students components and methods for modern scientific software and model development. This event offers hands-on lectures and tutorials by the developers of the major software packages PETSc and MOOSE. Topics will include numerical modeling, finite element modeling, multiphysics simulation, and integrating components into a target software application.
+PETSc
+PETSc, the Portable Extensible Toolkit for Scientific Computing, powers the numerics underlying many cutting-edge scientific computing and high-performance computing applications.
+PETSc Home Page
+MOOSE
+MOOSE, the Multiphysics Object-Oriented Simulation Environment, is a finite-element toolkit developed to simulate nuclear reactors and other computationally intensive models.
+MOOSE Home Page
+Prerequisites include: CS 420 Parallel programming or equivalent exposure to HPC concepts (although these will be reviewed as well); CS 450 Numerical analysis or TAM 470 Computational mechanics or equivalent exposure to numerical concepts. Knowledge of C++ is a necessity, but you can run through a tutorial beforehand to get up to speed on the language.
+
+
+###
+
