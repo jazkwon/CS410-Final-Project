@@ -57,7 +57,7 @@ def score_event(event, query):
     for thing in event_stuff:
         for event_word in thing:
             for query_word in query:
-                if event_word == query_word:
+                if event_word.lower() == query_word.lower():
                     score += 1
     return score
 
@@ -98,8 +98,8 @@ def write_events_by_tag_to_string(tag):
     return write_list_to_string(tagged_event_strings)
     
 if __name__ == '__main__':
-#     write_top_results_to_file("Computer Science Lecture")
-    print(write_events_by_tag_to_string("Lecture")) 
+    print(write_top_results_to_string("science"))
+#     print(write_events_by_tag_to_string("Lecture")) 
     
 #     events_list = load()
 #     events_scores = get_all_event_scores(events_list, "Computer Science Lecture")
