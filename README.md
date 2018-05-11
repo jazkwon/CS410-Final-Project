@@ -20,39 +20,39 @@ Note: see code for detailed documentation on software functions and implementati
 How to use the Software
 
 Setup
-1. Clone the repo from our github and navigate to the folder in your terminal
-2. Check your python version (type the command python --version)
-	a. Be sure you are using Python 2.7
-	b. If you do not have Python 2.7 installed…
-		i. Download Python 2.7 as instructed here 
-		ii. In terminal, run the command  sudo python get-pip.py
-3. Navigate to the /flaskApp-askjae folder in the terminal
-4. If Flask is not installed on your machine, run the command sudo pip install flask 
-5. Use Python 2.7 to run python app.py
-	a. Note: Be sure you are in the same directory as the app.py file
-6. Copy the local host address (http://127.0.0.1:5000/) into your web browser
+	1. Clone the repo from our github and navigate to the folder in your terminal
+	2. Check your python version (type the command python --version)
+		a. Be sure you are using Python 2.7
+		b. If you do not have Python 2.7 installed…
+			i. Download Python 2.7 as instructed here 
+			ii. In terminal, run the command  sudo python get-pip.py
+	3. Navigate to the /flaskApp-askjae folder in the terminal
+	4. If Flask is not installed on your machine, run the command sudo pip install flask 
+	5. Use Python 2.7 to run python app.py
+		a. Note: Be sure you are in the same directory as the app.py file
+	6. Copy the local host address (http://127.0.0.1:5000/) into your web browser
 
-Note: We tried running this on Python3, but for some reason, we could not build the project
+	Note: We tried running this on Python3, but for some reason, we could not build the project
 
 
 Using the Website
-1. Type search query in search bar (key words, event type ... ) and press the search button
-	a. Events matching the query should populate the page.
-2. Click on the Tags button to view the tags for the events
-	a. Select a tag and all the events with a matching type should populate the page
+	1. Type search query in search bar (key words, event type ... ) and press the search button
+		a. Events matching the query should populate the page.
+	2. Click on the Tags button to view the tags for the events
+		a. Select a tag and all the events with a matching type should populate the page
 
 
 Team Member Contributions
 
 Jasmine  
-Scraped and stored data in JSON about NCSA and General Campus Events. Merged frontend with backend.
+	Scraped and stored data in JSON about NCSA and General Campus Events. Merged frontend with backend.
 
 Emily 
-Coded up the front end of the website.  Merged frontend with backend.
+	Coded up the front end of the website.  Merged frontend with backend.
 
 Andrew  
-Scraped and stored data in JSON about CS and ECE events on campus.  Wrote the search function
+	Scraped and stored data in JSON about CS and ECE events on campus.  Wrote the search function
 
 All together  
-Came up with designs, concepts, and ideas for website
+	Came up with designs, concepts, and ideas for website
 
