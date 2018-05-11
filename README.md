@@ -27,7 +27,7 @@ Note: see code for detailed documentation on software functions and implementati
 	2. Check your python version (type the command python --version)
 		a. Be sure you are using Python 2.7 (Preferrably 2.7.5 if possible)
 		b. If you do not have Python 2.7 installed…
-			i. Download Python 2.7 as instructed [here](https://www.python.org/downloads/release/python-2714/)
+			i. Download Python 2.7 as instructed here -> (https://www.python.org/downloads/release/python-2714/)
 			ii. In the terminal run "curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py"
 			ii. In the terminal, run the command  "sudo python get-pip.py"
 	3. Navigate to the /flaskApp-askjae folder in the terminal
