@@ -84,7 +84,14 @@ def write_list_to_string(string_list):
 def write_top_results_to_string(search_query):
     events_list = load()
     events_scores = get_all_event_scores(events_list, search_query)
-    ranked_events = [x for _,x in sorted(zip(events_scores,events_list))]
+    tuple_list = []
+    for i in range(0, len(events_list)):
+        tuple_list.append((events_list[i], events_scores[i]))
+#     ranked_events = [x for _,x in sorted(zip(events_scores,events_list))]
+    tuple_list = sorted(tuple_list, key=lambda event: event[1])
+    ranked_events = []
+    for event in tuple_list:
+        ranked_events.append(event[0])
     return write_list_to_string(write_top_events_to_string_list(ranked_events, 5))
     
 def write_events_by_tag_to_string(tag):
@@ -98,7 +105,7 @@ def write_events_by_tag_to_string(tag):
     return write_list_to_string(tagged_event_strings)
     
 if __name__ == '__main__':
-    print(write_top_results_to_string("science"))
+    print(write_top_results_to_string("Lecture"))
 #     print(write_events_by_tag_to_string("Lecture")) 
     
 #     events_list = load()
