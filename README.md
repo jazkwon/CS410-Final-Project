@@ -50,16 +50,16 @@ Note: see code for detailed documentation on software functions and implementati
 ```
 
 
-Team Member Contributions
+## Team Member Contributions
 
-Jasmine  
+#### Jasmine  
 	Scraped and stored data in JSON about NCSA and General Campus Events. Merged frontend with backend.
 
-Emily
+#### Emily
 	Coded up the front end of the website.  Merged frontend with backend.
 
-Andrew  
+#### Andrew  
 	Scraped and stored data in JSON about CS and ECE events on campus.  Wrote the search function
 
-All together  
+#### All together  
 	Came up with designs, concepts, and ideas for website
