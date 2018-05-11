@@ -3,6 +3,14 @@ margin-right: 100px;
 margin-left: 150px;
 font-family: "Arial";
 }
+
+#searchbar {
+font-size: 20px;
+border-color: blue;
+padding: 6px;
+border-radius: 10px;
+}
+
 .search-container input[type=text] {
   position: relative;
   margin-left: 20px;
@@ -27,8 +35,6 @@ margin-bottom: 50px;
 }
 .tab {
 overflow: hidden;
-border: 1px solid #ffffff;
-background-color: #ffffff;
 }
 .tab button {
 background-color: #fdffba;
