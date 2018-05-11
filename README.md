@@ -22,7 +22,7 @@ Note: see code for detailed documentation on software functions and implementati
 ## How to use the Software
 
 ### Setup
-```
+
 	1. Clone the repo from our github and navigate to the folder in your terminal
 	2. Check your python version (type the command python --version)
 		a. Be sure you are using Python 2.7 (Preferrably 2.7.5 if possible)
@@ -38,7 +38,7 @@ Note: see code for detailed documentation on software functions and implementati
 
 	Note: We tried running this on Python3, but for some reason, we could not build the project
 
-```
+
 
 ### Using the Website
 ```
