@@ -14,7 +14,7 @@ echen35, jhkwon3, bloombe2
 ### Tags
   <p>
 	The tag button under the search bar pulls down a selection of type buttons that allow the user to organize and view the events by type. Each type button pulls all events correlated to that button (i.e. the seminar button gets and posts all the events of type “seminar”).  We only implemented one variant of the tags function; in the future, different types of tags could be included as well. For example, we could add the ability to organize data by organization (i.e. a potential NCSA Events button could get and post all the NCSA events).
-  </py>
+  </p>
 
 
 Note: see code for detailed documentation on software functions and implementation
