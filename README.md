@@ -28,13 +28,14 @@ Note: see code for detailed documentation on software functions and implementati
 		a. Be sure you are using Python 2.7 (Preferrably 2.7.5 if possible)
 		b. If you do not have Python 2.7 installed…
 			i. Download Python 2.7 as instructed here
-			ii. In the terminal run ```curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py```
-			ii. In terminal, run the command  <code> sudo python get-pip.py</code>
+			ii. In the terminal run "curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py"
+			ii. In terminal, run the command  "sudo python get-pip.py"
 	3. Navigate to the /flaskApp-askjae folder in the terminal
-	4. If Flask is not installed on your machine, run the command <code>sudo pip install flask</code>
-	5. Use Python 2.7 to run python app.py
+	4. If Flask is not installed on your machine, run the command sudo pip install flask"
+	5. If NLTK is not installed, run "sudo pip install -U nltk" on your machine.
+	6. Use Python 2.7 to run python app.py
 		a. Note: Be sure you are in the same directory as the app.py file
-	6. Copy the local host address (http://127.0.0.1:5000/) into your web browser
+	7. Copy the local host address (http://127.0.0.1:5000/) into your web browser
 
 	Note: We tried running this on Python3, but for some reason, we could not build the project
 
