@@ -5,7 +5,7 @@ font-family: "Arial";
 }
 
 #searchbar {
-font-size: 20px;
+font-size: 25px;
 border-color: blue;
 padding: 6px;
 border-radius: 10px;
@@ -35,6 +35,8 @@ margin-bottom: 50px;
 }
 .tab {
 overflow: hidden;
+//border: 1px solid #ffffff;
+//background-color: blue;
 }
 .tab button {
 background-color: #fdffba;
