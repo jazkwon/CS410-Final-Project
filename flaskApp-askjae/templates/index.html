@@ -14,7 +14,7 @@
     		<div class="search-container">
 					<form method="POST">
 						<input name="text" placeholder="Search.." type="search">
-						<button type="submit" OnClick="sayHello()"><img src="{{url_for('static', filename='search-icon.png')}}" height="30" width="30"></img></button>
+						<button type="submit" OnClick=""><img src="{{url_for('static', filename='search-icon.png')}}" height="30" width="30"></img></button>
 					</form>
 			</div>
 
@@ -25,13 +25,49 @@
 
 			<!--Tab Insides-->
 			<div id="Tags" class="tabcontent" style="display:none">
-				  <button onclick="">Seminar</button> <br>
+				<form action = "http://127.0.0.1:5000/tag" method="POST">
+
+				  <button type="submit" onclick="tag_post_sem()">Seminar</button> <br>
+
+				 </form>
+
+				 <form action = "http://127.0.0.1:5000/tag1" method="POST">
+				  <button type="submit" onclick="tag_post_lect()">Lecture</button> <br>
+				</form>
+
+				<form action = "http://127.0.0.1:5000/tag2" method="POST">
+				  <button type="submit" onclick="tag_post_meet()">Meeting</button> <br>
+				</form>
+
+				<form action = "http://127.0.0.1:5000/tag3" method="POST">
+					<button type="submit" onclick="tag_post_ex()">Exhibition</button> <br>
+				</form>
+
+				<form action = "http://127.0.0.1:5000/tag4" method="POST">
+				  <button type="submit" onclick="tag_post_conf()">Conference</button> <br>
+				</form>
+
+				<form action = "http://127.0.0.1:5000/tag5" method="POST">
+				  <button type="submit" onclick="tag_post_work()">Workshop</button> <br>
+				</form>
+
+				<form action = "http://127.0.0.1:5000/tag6" method="POST">
+					<button type="submit" onclick="tag_post_oth()">Other</button> <br>
+				</form>
+
+
+
+
+
+
+<!-- 
 				  <button onclick="">Lecture</button> <br>
 				  <button onclick="">Meeting</button> <br>
 					<button onclick="">Exhibition</button> <br>
 				  <button onclick="">Conference</button> <br>
 				  <button onclick="">Workshop</button> <br>
-					<button onclick="">Other</button> <br>
+					<button onclick="">Other</button> <br> -->
+				
 					<!-- <span onclick="this.parentElement.style.display='none'">x</span> -->
 
 			</div>
