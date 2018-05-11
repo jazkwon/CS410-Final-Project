@@ -1,0 +1,202 @@
+{
+    "events": [
+        {
+            "date": "5/9/2018\r\n", 
+            "details": "Exam Topic:\u00a0Spatial-Temporal Representation Learning via Interaction \n \n", 
+            "location": "3032 ECE Building", 
+            "sponsor": "ECE ILLINOIS", 
+            "time": "2 p.m.", 
+            "title": "Prelim Examination: Yuchen He", 
+            "type": "Seminar/Symposium"
+        }, 
+        {
+            "date": "5/9/2018\r\n", 
+            "details": "ABSTRACT: \n In this seminar, Kai will speak about what it is like being responsible for corporate incident response and computer forensics at Volkswagen/Audi. This includes security response to the various ICS systems that Volkswagen/Audi uses in its factories all over the world. Kai will also try to address challenges faced in securing a computerized vehicle and address car security. \n BIOGRAPHY: \n Kai Thompsen  is the Incident Response Team Lead at AUDI AG.\u00a0 He is currently working on creating a modern CSIRT for Audi.\u00a0 In the past, he established an IT Service Continuity Organization at Audi and developed and executed crisis management training exercises for top management. \n Prior to Audi, he worked at SMS group, an engineering company for steel manufacturing plants.\u00a0 He was responsible for network security architecture, NSM, and forensics. \n Kai holds an M.A. in Computer Science and English and American Literature from the University of Siegen.\u00a0 \n He is also a SANS Instructor for Industrial Control Systems Active Defense and Incident Response (ICS515). \n \n", 
+            "location": "Coordinated Science Lab Room 141CSL", 
+            "sponsor": "Edmond Rogers", 
+            "time": "3 p.m.", 
+            "title": "ITI Special Seminar:  Kai Thompsen, \"A Talk about Being a Principal Incident Handler and Doing Computer Forensics at Volkswagen/Audi, a Large Automobile Manufacturer\"", 
+            "type": "Seminar/Symposium"
+        }, 
+        {
+            "date": "5/10/2018\r\n", 
+            "details": "Bio:\u00a0 Shurun Tan received the B.Eng. and M.Eng. degrees in Electrical Engineering from the Southeast University, Nanjing, China, in 2009 and 2012, respectively, and the Ph.D. degree in Electrical Engineering from the University of Michigan, Ann Arbor, MI, USA, in Dec. 2016. \n From Dec. 2010 to Nov. 2011, he was a visiting researcher with the Department of Electrical and Computer Engineering, the University of Houston, Houston, TX, USA. From Sep. 2012 to Dec. 2014, he was a PhD candidate with the Department of Electrical Engineering, the University of Washington, Seattle, WA, USA. He is currently a postdoc at the Radiation Laboratory and the Department of Electrical Engineering and Computer Science at the University of Michigan, since Jan. 2017. \n Abstract:\u00a0 Electromagnetic wave scattering of periodic structures and random media are fascinating fields with wide applications. Electromagnetic wave scattering of periodic structures is fundamental for analysis and design of engineered electromagnetic materials such as photonic crystals, metamaterials and metasurfaces, while electromagnetic wave scattering of random media constitutes the physical basis for environmental and geophysical remote sensing. In both cases, Maxwell\u2019s equations are the theoretical foundations for electromagnetic wave scattering problems. In this seminar, I will present a novel and effective broadband Green\u2019s function approach that we recently developed to deal with wave interactions with periodic structures. The approach is especially suitable for field analysis around interfaces of periodic structures in engineered electromagnetic materials design. I will then present three unique yet inherently unified methods for solving Maxwell\u2019s equations on dense volumetric random media: a dense media radiative transfer approach, a full wave simulation approach, and a Feynman diagram approach. Implications and impacts of these theories on various engineering problems and scientific questions will also be discussed. \n \n", 
+            "location": "1311 Newmark Civil Engineering Laboratory", 
+            "sponsor": "Civil Engineering", 
+            "time": "12 p.m.", 
+            "title": "Electromagnetic wave scattering of periodic structures seminar", 
+            "type": "Seminar/Symposium"
+        }, 
+        {
+            "date": "5/10/2018\r\n", 
+            "details": "Abstract: \u00a0Electromagnetic wave scattering of periodic structures and random media are fascinating fields with wide applications. Electromagnetic wave scattering of periodic structures is fundamental for analysis and design of engineered electromagnetic materials such as photonic crystals, metamaterials and metasurfaces, while electromagnetic wave scattering of random media constitutes the physical basis for environmental and geophysical remote sensing. In both cases, Maxwell\u2019s equations are the theoretical foundations for electromagnetic wave scattering problems. In this seminar, I will present a novel and effective broadband Green\u2019s function approach that we recently developed to deal with wave interactions with periodic structures. The approach is especially suitable for field analysis around interfaces of periodic structures in engineered electromagnetic materials design. I will then present three unique yet inherently unified methods for solving Maxwell\u2019s equations on dense volumetric random media: a dense media radiative transfer approach, a full wave simulation approach, and a Feynman diagram approach. Implications and impacts of these theories on various engineering problems and scientific questions will also be discussed. \n \u00a0 \n Bio: \u00a0Shurun Tan received the B.Eng. and M.Eng. degrees in Electrical Engineering from the Southeast University, Nanjing, China, in 2009 and 2012, respectively, and the Ph.D. degree in Electrical Engineering from the University of Michigan, Ann Arbor, MI, USA, in Dec. 2016. \n From Dec. 2010 to Nov. 2011, he was a visiting researcher with the Department of Electrical and Computer Engineering, the University of Houston, Houston, TX, USA. From Sep. 2012 to Dec. 2014, he was a PhD candidate with the Department of Electrical Engineering, the University of Washington, Seattle, WA, USA. He is currently a postdoc at the Radiation Laboratory and the Department of Electrical Engineering and Computer Science at the University of Michigan, since Jan. 2017. \n \n", 
+            "location": "1311 Newmark", 
+            "sponsor": "ECE ILLINOIS", 
+            "time": "12 p.m.", 
+            "title": "Electromagnetic Wave Scattering of Periodic Structures and Random Media with Applications in Engineered Electromagnetic Materials and Environmental Remote Sensing", 
+            "type": "Lecture"
+        }, 
+        {
+            "date": "5/11/2018\r\n", 
+            "details": "Exam Topic: Towards Joint Water-Electricity Power Systems Analysis \n \n", 
+            "location": "TBD", 
+            "sponsor": "ECE ILLINOIS", 
+            "time": "5 p.m.", 
+            "title": "Final Examination: Desiree Phillips", 
+            "type": "Seminar/Symposium"
+        }, 
+        {
+            "date": "10:30 a.m.", 
+            "details": "", 
+            "location": "ECE ILLINOIS", 
+            "sponsor": "Ceremony/Service", 
+            "time": "I Hotel and Conference Center, Champaign", 
+            "title": "ECE Graduation Brunch", 
+            "type": "RSVP required.\u00a0Details will be sent to graduates\u00a0in April."
+        }, 
+        {
+            "date": "5/15/2018\r\n", 
+            "details": "CSL PhD Final Defense Yanjun Li \n Date:\u00a0 May 15, 2018 \n Time:\u00a0 2:00 p.m. \n Location:\u00a0 301 CSL \n Thesis Title:\u00a0 Bilinear Inverse Problems with Sparsity: Optimal Identifiability Conditions and Efficient Recovery \n Academic Unit:\u00a0 ECE \n Adviser:\u00a0 Yoram Bresler \n \n", 
+            "location": "301 CSL", 
+            "sponsor": "CSL", 
+            "time": "2 p.m.", 
+            "title": "CSL PhD Final Defense: Yanjun Li- \"Bilinear Inverse Problems with Sparsity: Optimal Identifiability Conditions and Efficient Recovery\"", 
+            "type": "Other"
+        }, 
+        {
+            "date": "5/18/2018\r\n", 
+            "details": "\n Sponsor: \n Carl R. Woese Institute for Genomic Biology \n \n \n Event Type: \n Seminar/Symposium \n \n \n \u00a0 \n IGB Pioneers Seminar \"Plants, Oxygen and Water Extremes\" Julia Bailey-Serres, PhD University of California, Riverside Professor of Genetics and Director, Center for Plant Cell Biology \n \n", 
+            "location": "Carl R. Woese Institute for Genomic Biology, 612 IGB Conference Center, 1206 West Gregory Drive, Urbana, IL", 
+            "sponsor": "Melinda Laborg", 
+            "time": "12 p.m.", 
+            "title": "IGB Pioneers Seminar - Genomic Ecology of Global Change", 
+            "type": "\n"
+        }, 
+        {
+            "date": "5/22/2018\r\n", 
+            "details": "Exam Topic: Hybrid Microplasma-semiconductor transistor and frequency mixer \n \n", 
+            "location": "3081 ECE Building", 
+            "sponsor": "ECE ILLINOIS", 
+            "time": "1 p.m.", 
+            "title": "Prelim Examination: Yin Huang", 
+            "type": "Seminar/Symposium"
+        }, 
+        {
+            "date": "Oct 8, 2018", 
+            "details": "Part of the Illinois Computer Science Distinguished Lecture Series", 
+            "location": "2405 Siebel Center", 
+            "sponsor": "Department of Computer Science", 
+            "time": "4:00 - 5:00 pm", 
+            "title": "Alexei (Alyosha) Efros: Professor, UC Berkeley", 
+            "type": "Lecture"
+        }, 
+        {
+            "date": "May 14, 2018", 
+            "details": "Abstract: \u00a0 With Moore's Law coming to an end, architects must find ways to sustain performance growth without technology scaling. The most promising path is to build highly parallel systems that harness thousands of simple and efficient cores. But this approach will require new techniques to make massive parallelism practical, as current multicores fall short of this goal: they squander most of the parallelism available in applications and are too hard to program. \n I will present Swarm, a new architecture that successfully parallelizes algorithms that are often considered sequential and is much easier to program than conventional multicores. Swarm programs consist of tiny tasks, as small as tens of instructions each. Parallelism is implicit: all tasks follow a programmer-specified total or partial order, eliminating the correctness pitfalls of explicit synchronization (e.g., deadlock, data races, etc.). To scale, Swarm executes tasks speculatively and out of order, and efficiently speculates thousands of tasks ahead of the earliest active task to uncover enough parallelism. \n Swarm builds on decades of work on speculative architectures and contributes new techniques to scale to large core counts, including a new execution model, speculation-aware hardware task management, selective aborts, and scalable ordered task commits. Swarm also incorporates new techniques to exploit locality and to harness nested parallelism, making parallel algorithms easy to compose and uncovering abundant parallelism in large applications. \n Swarm accelerates challenging irregular applications from a broad set of domains, including graph analytics, machine learning, simulation, and databases. At 256 cores, Swarm is 53-561x faster than a single-core system, and outperforms state-of-the-art software-only parallel algorithms by one to two orders of magnitude. Besides achieving near-linear scalability, the resulting Swarm programs are almost as simple as their sequential counterparts, as they do not use explicit synchronization. \n \u00a0 \n Bio:\u00a0  Daniel Sanchez is an Associate Professor of Electrical Engineering and Computer Science at MIT. His research interests include parallel computer systems, scalable and efficient memory hierarchies, architectural support for parallelization, and architectures with quality-of-service guarantees. He earned a Ph.D. in Electrical Engineering from Stanford University in 2012 and received the NSF CAREER award in 2015.", 
+            "location": "2405 Siebel Center", 
+            "sponsor": "The Department of Computer Science, University of Illinois", 
+            "time": "4:00 pm", 
+            "title": "Daniel Sanchez, \"Making Parallelism Pervasive with the Swarm Architecture\"", 
+            "type": "Lecture"
+        }, 
+        {
+            "date": "Jun 28, 2018", 
+            "details": "Thesis title:\u00a0 Efficient Data Reconfiguration Techniques in Cloud Systems \n Thesis committee: \n Indranil Gupta, Director/Chair \n Nitin Vaidya \n Luke Olson \n Aaron Elmore", 
+            "location": "3102 Siebel Center", 
+            "sponsor": "Department of Computer Science", 
+            "time": "2:00 pm", 
+            "title": "Final Exam of Mainak Ghosh", 
+            "type": "Meeting"
+        }, 
+        {
+            "date": "Oct 22, 2018", 
+            "details": "Part of the Illinois Computer Science Distinguished Lecture Series", 
+            "location": "2405 Siebel Center", 
+            "sponsor": "Department of Computer Science", 
+            "time": "4:00 - 5:00 pm", 
+            "title": "Omer Reingold: Professor, Stanford University", 
+            "type": "Lecture"
+        }, 
+        {
+            "date": "May 18, 2018", 
+            "details": "Thesis title:\u00a0 Understanding Stories via Event Sequence Modeling \n Thesis committee: \n Dan Roth, Director/Chair \n Julia Hockenmaier \n Jian Peng \n Kevin Gimbel", 
+            "location": "2102 Siebel Center", 
+            "sponsor": "Department of Computer Science", 
+            "time": "9:30 am", 
+            "title": "Final Exam of Haoruo Peng", 
+            "type": "Meeting"
+        }, 
+        {
+            "date": "Dec 3, 2018", 
+            "details": "Part of the Illinois Computer Science Distinguished Lecture Series", 
+            "location": "2405 Siebel Center", 
+            "sponsor": "Department of Computer Science", 
+            "time": "4:00 - 5:00 pm", 
+            "title": "Sean Follmer: Professor of Mechanical Engineering and Computer Science, Stanford", 
+            "type": "Lecture"
+        }, 
+        {
+            "date": "Nov 5, 2018", 
+            "details": "Part of the Illinois Computer Science Distinguished Lecture Series", 
+            "location": "2405 Siebel Center", 
+            "sponsor": "Department of Computer Science", 
+            "time": "4:00 - 5:00 pm", 
+            "title": "Venkatesan Guruswami: Professor of Computer Science, CMU", 
+            "type": "Lecture"
+        }, 
+        {
+            "date": "May 9, 2018", 
+            "details": "Virtual and augmented reality technology has recently advanced by leaps and bounds due to widespread investment and interest from consumers, corporations, and campuses around the world. The VR course at the University of Illinois is a one-of-a-kind experience for students that empowers them by leveraging the latest tools and technology. In addition to learning fundamentals about human perception and VR engineering, they collaboratively build first-person, immersive experiences that have the power to touch people in a way that was not possible a decade ago, but is now easily accessible through smartphones and other consumer devices.   Experience virtual reality for yourself through the eyes of Department of Compu ter Science\u2019s student VR projects from 5-10 p.m. on Wednesday, May 9, in the VR Lab at Siebel Center (room 4107) on the University of Illinois campus.   Projects from Illinois Computer Science's Virtual Reality course include: \n Racing Sim : A collaboration with\u00a0Illini Motorsports Formula SAE to allow student drivers\u00a0to practice on actual race courses. \n The Heist : Work your way through blockchains to steal cryptocurrency. \n Space Meditation : Float through space to achieve a state of total\u00a0relaxation. \n The Chicago Study : Explore how violent crime impacts public health through\u00a0data gathered from a group of real women who live in Chicago. \n Physics VR Lab : Run physics simulations to learn about Newton's laws and make predictions about an experiment.   For some examples of past projects, check out  https:// courses.engr.illinois.edu/ cs498sl3/fa2017/gallery.php", 
+            "location": "4107 Thomas M. Siebel Center for Computer Science", 
+            "sponsor": "Department of Computer Science", 
+            "time": "5:00 - 10:00 pm", 
+            "title": "Virtual Reality Open House", 
+            "type": "Exhibition"
+        }, 
+        {
+            "date": "May 11, 2018", 
+            "details": "Thesis title:\u00a0 Building Interactive Distributed Processing Applications at a Global Scale \n Thesis committee: \n Roy Campbell, Chair \n Indranil Gupta, Director \n Klara Nahrstedt \n Victor Bahl", 
+            "location": "2407 Siebel Center", 
+            "sponsor": "Department of Computer Science", 
+            "time": "9:00 am", 
+            "title": "Final Exam of Shadi Abdollahian Noghabi", 
+            "type": "Meeting"
+        }, 
+        {
+            "date": "Sep 24, 2018", 
+            "details": "Part of the Illinois Computer Science Distinguished Lecture Series", 
+            "location": "2405 Siebel Center", 
+            "sponsor": "Department of Computer Science", 
+            "time": "4:00 - 5:00 pm", 
+            "title": "Lexing Ying, Professor of Mathematics, Stanford University", 
+            "type": "Lecture"
+        }, 
+        {
+            "date": "Oct 1, 2018", 
+            "details": "Part of the Illinois Computer Science Distinguished Lecture Series.", 
+            "location": "2405 Siebel Center", 
+            "sponsor": "Department of Computer Science", 
+            "time": "4:00 - 5:00 pm", 
+            "title": "Tamara Kolda: Distinguished Member of Technical Staff, Sandia National Laboratories", 
+            "type": "Lecture"
+        }, 
+        {
+            "date": "Sep 10, 2018", 
+            "details": "Part of the Illinois Computer Science Distinguished Lecture Series", 
+            "location": "2405 Siebel Center", 
+            "sponsor": "Department of Computer Science", 
+            "time": "4:00 - 5:00 pm", 
+            "title": "Luiz Andre Barroso, VP of Engineering, Google", 
+            "type": "Lecture"
+        }, 
+        {
+            "date": "May 12, 2018", 
+            "details": "The Department of Computer Science will congratulate the class of 2018 with this annual reception for graduating students and their families. \n \u00a0 \n Graduates' names will be displayed on the CS video wall for photo opportunities, and they\u2019ll receive a gift from the department! \n \u00a0 \n Parking  will be free on Saturday, May 12, at most University lots and garages. \n \u00a0 \n Register  at  go.cs.illinois.edu/CSclassof2018  to help us plan for refreshments. \n \u00a0 \n What\u2019s next? Where are you headed? \u00a0 Please let us know by completing the Illini Success Survey:  go.illinois.edu/MyIlliniSuccess .", 
+            "location": "Thomas M. Siebel Center for Computer Science Atrium", 
+            "sponsor": "Department of Computer Science", 
+            "time": "1:30 - 3:30 pm", 
+            "title": "Illinois Computer Science Graduation Celebration", 
+            "type": "Seminar/Symposium"
+        }
+    ]
+}

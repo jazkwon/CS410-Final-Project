@@ -1,144 +1,40 @@
 <!-- REFERENCE: https://www.w3schools.com/howto/howto_js_tabs.asp -->
 <html>
 	<head>
-        <style>
-        .main{
-        margin-right: 100px;
-    		margin-left: 150px;
-    		font-family: "Arial";
-        }
-        .search-container input[type=text] {
-          position: relative;
-          margin-left: 20px;
-          margin-bottom: 30px;
-          border-radius: 10px;
-		  padding: 6px;
-		  border: #ffdd62;
-		  border-style: ridge;
-		  font-size: 17px;
-		  width: 85%;
-		}
-		.search-container button[type=submit] {
-
-			display: inline-block;
-    		background-color: #ffffff;
-    		border-color: #ffffff;
-    		border-radius: 10px;
-    	}
-		.logo {
-			margin-top: 50px;
-			margin-bottom: 50px;
-		}
-		.tab {
-		    overflow: hidden;
-		    border: 1px solid #ffffff;
-		    background-color: #ffffff;
-		}
-		.tab button {
-		    background-color: #fdffba;
-		    margin-left: 18px;
-		    float: left;
-		    border: #ffec9b;
-		    border-style: ridge;
-		    border-radius: 10px;
-		    cursor: pointer;
-		    padding: 14px 16px;
-		    transition: 0.3s;
-		    font-size: 17px;
-		}
-		.tab button:hover {
-			background-color: #a0ffff;
-		}
-		.tabcontent {
-		    /*display: none;*/
-		    padding: 6px 12px;
-		    border: 1px solid #ccc;
-		    border-top: none;
-		}
-		.tabcontent button{
-			background-color: #ffe3a3;
-			margin: 5px;
-		    border: #ffec9b;
-		    border-style: ridge;
-		    border-radius: 10px;
-		    cursor: pointer;
-		    padding: 10px 12px;
-		    transition: 0.3s;
-		    font-size: 14px;
-		}
-		.tabcontent button:hover {
-			background-color: #a0ffff;
-		}
-
-        </style>
-
-    </head>
-    <body>
+    <title>Flask app</title>
+		<script src="{{url_for('static', filename='app.js')}}"></script>
+		<link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='stylesheet/style.css') }}">
+  </head>
+  <body>
     	<div class="main">
-    		<img class="logo" src="/tmp/jaelogo.png" height="300" width="700"></img>
+				<img class="logo" src="{{url_for('static', filename='jaelogo.png')}}" height="300" width="700"></img>
 
 
     		<!-- Search Bar -->
     		<div class="search-container">
-				<input type="text" placeholder="Search.." name="search">
-				<button type="submit"><img src="/tmp/search-icon.png" height="30" width="30"></button>
+					<form method="POST">
+						<input name="text" placeholder="Search.." type="search">
+						<button type="submit" OnClick="sayHello()"><img src="{{url_for('static', filename='search-icon.png')}}" height="30" width="30"></img></button>
+					</form>
 			</div>
-
 
 			<!--Tab Links-->
 			<div class="tab">
-				<p><a href="{{ url_for('generate')}}">Test</a></p>
-				<button class="tablinks"><a href="{{ url_for('generate')}}">Tags</a></button>
-
+				<button class="tablinks" onclick="getTabs(event, 'Tags')">Tags</button>
 			</div>
 
 			<!--Tab Insides-->
-			<div id="Tags" class="tablinks" style="display:none">
-				<div id="tagoutput">Nothing Yet</div>
+			<div id="Tags" class="tabcontent" style="display:none">
+				  <button onclick="">Seminar</button> <br>
+				  <button onclick="">Lecture</button> <br>
+				  <button onclick="">Meeting</button> <br>
+					<button onclick="">Exhibition</button> <br>
+				  <button onclick="">Conference</button> <br>
+				  <button onclick="">Workshop</button> <br>
+					<button onclick="">Other</button> <br>
+					<!-- <span onclick="this.parentElement.style.display='none'">x</span> -->
 
 			</div>
-
-    		<!-- JavaScript for tabs --> 
-    		<!-- I was like trying to parse the json with JS for some reason??? but use python lol -->
-
-			<!-- <script src ="/tmp/tagscript.js"></script> -->
-
-<!-- 			<script>
-
-				//var jtest = { "test" : "hello",
-				//				"test2" : "goodbye"}
-				var json = (function () {
-					var json = null;
-					$.ajax({
-						'async': false,
-			            'global': false,
-			            'url': "/tmp/tagscript.json",
-			            'dataType': "json",
-			            'success': function (data) {
-			                json = data;
-			            }
-					})
-				}) ();
-				function getTabs(event, type){
-				    //var tabcontent, tablinks;
-				    var curr = document.getElementById(type);
-
-				    if (curr.style.display === "none"){
-				    	curr.innerHTML = json;
-				        //curr.innerHTML = jtest.test + ' ' + jtest.test2;
-				        curr.style.display = "block";
-				    }
-				    else{
-				        curr.style.display = "none";
-				    }
-
-				}
-
-			</script> -->
-
-
-
-
 
 		</div>
 
