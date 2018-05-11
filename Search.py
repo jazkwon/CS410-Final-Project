@@ -75,19 +75,19 @@ def write_top_events_to_string_list(ranked_events, num_events):
         event_strings.append(event.event_to_string())
     return event_strings
 
-def write_list_to_file(string_list, file):
-    file = open(file, 'w')
+def write_list_to_string(string_list):
+    event_string = ""
     for event in string_list:
-        file.write("%s\n" % event)
-        file.write("\n###\n\n")
+        event_string += event + "\n###\n\n"
+    return event_string
         
-def write_top_results_to_file(search_query):
+def write_top_results_to_string(search_query):
     events_list = load()
-    events_scores = get_all_event_scores(events_list, "Computer Science Lecture")
+    events_scores = get_all_event_scores(events_list, search_query)
     ranked_events = [x for _,x in sorted(zip(events_scores,events_list))]
-    write_list_to_file(write_top_events_to_string_list(ranked_events, 5), "top_events.txt")
+    return write_list_to_string(write_top_events_to_string_list(ranked_events, 5))
     
-def write_events_by_tag_to_file(tag):
+def write_events_by_tag_to_string(tag):
     events_list = load()
     tagged_event_strings = []
 #     tags_list = ["Seminar", "Lecture", "Meeting", "Exhibition", "Conference", "Workshop", "Other"]
@@ -95,11 +95,11 @@ def write_events_by_tag_to_file(tag):
         event_string = event.event_to_string()
         if tag.lower() in event_string.lower():
             tagged_event_strings.append(event_string)
-    write_list_to_file(tagged_event_strings, "tagged_events.txt")
+    return write_list_to_string(tagged_event_strings)
     
 if __name__ == '__main__':
 #     write_top_results_to_file("Computer Science Lecture")
-    write_events_by_tag_to_file("Lecture")
+    print(write_events_by_tag_to_string("Lecture")) 
     
 #     events_list = load()
 #     events_scores = get_all_event_scores(events_list, "Computer Science Lecture")
